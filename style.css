@@ -132,3 +132,13 @@ hr{
     color: rgb(97, 118, 238);
 }
 
+.forthsection{
+    max-width: 80vw;
+    margin: auto;
+    height: auto;
+}
+
+.forthsection div{
+    font-size: 3rem;
+
+}
