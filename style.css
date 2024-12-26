@@ -157,18 +157,15 @@ hr{
 
 @media (max-width: 1000px) {
     .secondsection{
-        height: 200px;
-        background-color: red;
+        height: 400px;
     }
 
     .thirdsection{
         height: 200px;
-        background-color: blue;
     }
 
     .forthsection{
         height: 200px;
-        background-color: green;
     }
 
     .contact div{
