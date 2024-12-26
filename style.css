@@ -155,9 +155,23 @@ hr{
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     .secondsection{
         height: 30vh;
         background-color: red;
+    }
+
+    .thirdsection{
+        height: 40vh;
+        background-color: blue;
+    }
+
+    .forthsection{
+        height: 20vh;
+        background-color: green;
+    }
+
+    .contact div{
+        font-size: 1rem;
     }
 }
